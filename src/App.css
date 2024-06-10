@@ -1,0 +1,25 @@
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: #154360;
+}
+
+.App {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.contenedor-logo {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
